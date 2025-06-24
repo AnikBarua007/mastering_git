@@ -1,2 +1,2 @@
-hello github_practices
-done from the 'new branch'
+#welcome to git
+#this is coming from  dev  adarian branch
