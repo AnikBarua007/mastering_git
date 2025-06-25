@@ -1,0 +1,75 @@
+[33mcommit d5872227fa6d5a326fb81461cadd45fd9bcbf521[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ANIK <anik.compsc@gmail.com>
+Date:   Wed Jun 25 10:21:46 2025 +0600
+
+    commit
+
+[33mcommit 6c3730b1f9a888beb32f3497fe37d87a78d25414[m
+Author: ANIK <anik.compsc@gmail.com>
+Date:   Wed Jun 25 10:19:28 2025 +0600
+
+    just some indent
+
+[33mcommit cfad141f3ef971c1f85a5377086aa488596d66d4[m
+Merge: 5b6e9d1 94d3b7c
+Author: Anik Barua <anik.compsc@gmail.com>
+Date:   Wed Jun 25 16:17:11 2025 +0600
+
+    Merge pull request #3 from AnikBarua007/dev-jsm
+    
+    commits the new barnch
+
+[33mcommit 5b6e9d13e381a6ae9c27193cf658562cc54cdd09[m
+Merge: 6d58c19 e9a49a2
+Author: Anik Barua <anik.compsc@gmail.com>
+Date:   Wed Jun 25 15:51:04 2025 +0600
+
+    Merge pull request #2 from AnikBarua007/dev-adrian
+    
+    Added on dev-adrian,heder and new line
+
+[33mcommit 94d3b7c3367d1ffb6e8822ab60aab88b586cb09b[m[33m ([m[1;31morigin/dev-jsm[m[33m, [m[1;32mdev-jsm[m[33m)[m
+Merge: bfb7e56 5b6e9d1
+Author: ANIK <anik.compsc@gmail.com>
+Date:   Wed Jun 25 10:15:05 2025 +0600
+
+    after solving merge conflicts
+
+[33mcommit bfb7e568616642cbb7607c99e168c2bf3711bc43[m
+Author: ANIK <anik.compsc@gmail.com>
+Date:   Wed Jun 25 09:54:30 2025 +0600
+
+    commits the new barnch
+
+[33mcommit e9a49a2ed2a701e2a9085039b134384235efacb8[m[33m ([m[1;31morigin/dev-adrian[m[33m, [m[1;32mdev-adrian[m[33m)[m
+Author: ANIK <anik.compsc@gmail.com>
+Date:   Wed Jun 25 05:20:48 2025 +0600
+
+    Added on dev-adrian,heder and new line
+
+[33mcommit 6d58c19f5e5b2747b3c0b73634b7723cb8e3d3cb[m
+Merge: 699167f b48c49d
+Author: Anik Barua <anik.compsc@gmail.com>
+Date:   Wed Jun 25 00:56:35 2025 +0600
+
+    Merge pull request #1 from AnikBarua007/new_branch
+    
+    Committed feature readme to the new branch read me
+
+[33mcommit b48c49d4081b2f073f38cc619935c4ee31cef582[m[33m ([m[1;31morigin/new_branch[m[33m, [m[1;32mnew_branch[m[33m)[m
+Author: ANIK <anik.compsc@gmail.com>
+Date:   Wed Jun 25 00:39:26 2025 +0600
+
+    Committed feature readme to the new branch read me
+
+[33mcommit 699167f8c87772e49715e19e2ccbbdc9519f1969[m[33m ([m[1;31morigin/new_work[m[33m, [m[1;32mnew_work[m[33m)[m
+Author: ANIK <anik.compsc@gmail.com>
+Date:   Tue Jun 24 23:45:16 2025 +0600
+
+    added hello and test files
+
+[33mcommit c439d66d5c516e1866cabc245879968a33fa7764[m
+Author: ANIK <anik.compsc@gmail.com>
+Date:   Tue Jun 24 23:42:39 2025 +0600
+
+    added the readme file
