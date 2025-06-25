@@ -1,2 +1,3 @@
-hello github_practices
-done from the 'new branch'
+Everyne welcome to my git from dev-jsm
+made changes
+yo anik barua here
